@@ -7,6 +7,9 @@ export default function IndexPage() {
       <Link href="/about">
         <a>About</a>
       </Link>
+      <Link href="/day">
+        <a>Day</a>
+      </Link>
     </div>
   )
 }
